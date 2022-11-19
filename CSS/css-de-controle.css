@@ -59,3 +59,21 @@ body {
     size: 200px;
     color: black;
 }
+.icones {
+    text-decoration: none;
+    width: 25px;
+    margin: 3px;
+    align-items: center;
+    margin: 0 auto;
+}
+footer {
+    background-color: rgb(174, 211, 118);
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
