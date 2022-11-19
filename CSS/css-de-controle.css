@@ -3,10 +3,12 @@ body {
   padding: 0;
   width: 100vw;
   height: 100vh;
-  background: rgb(233, 240, 121);
+  width: 100%;
+  height: 100%;
+  background: rgb(170, 250, 21);
   background: linear-gradient(0deg,
       rgba(233, 240, 121, 1) 36%,
-      rgba(119, 253, 45, 1) 95%) no-repeat;
+      rgba(119, 253, 45, 1) 95%) none;
 }
 
 .box-jogos {
@@ -79,5 +81,14 @@ footer {
   margin-top: 40px;
   text-align: center;
   justify-content: center;
-  margin-bottom: 0 auto;
+}
+.videos {
+  margin: 0 auto;
+  margin-top: 20px;
+  box-shadow: black;
+  max-width: 550px;
+  min-width: 100px;
+  border-radius: 5px;
+  background: linear-gradientrgba(119, 253, 45, 1) 95%;
+  align-items: center;
 }
