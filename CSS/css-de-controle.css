@@ -15,8 +15,8 @@ body {
   margin: 0 auto;
   margin-top: 20px;
   box-shadow: black;
-  max-width: 650px;
-  min-width: 110px;
+  max-width: 550px;
+  min-width: 100px;
   border-radius: 5px;
   background: linear-gradient(223deg, #303fea 0%, #fff 100%);
 }
