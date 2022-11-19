@@ -18,7 +18,7 @@ body {
   max-width: 550px;
   min-width: 100px;
   border-radius: 5px;
-  background: linear-gradient(223deg, #303fea 0%, #fff 100%);
+  background: linear-gradientrgba(119, 253, 45, 1) 95%;
 }
 .box-jogos-titulo {
     color:blue;
@@ -28,9 +28,19 @@ body {
   max-width: 550px;
   min-width: 100px;
   border-radius: 5px;
-  background: linear-gradient(223deg, #303fea 0%, #fff 100%);
+  background: linear-gradientrgba(119, 253, 45, 1) 95%;
   text-align: center;
 }
+.box-jogos-menu {
+    margin: 0 auto;
+    margin-top: 20px;
+    box-shadow: black;
+    max-width: 550px;
+    min-width: 100px;
+    border-radius: 5px;
+    background: linear-gradientrgba(119, 253, 45, 1) 95%;
+  }
+
 .bandeira {
   margin-top: 5px;
   max-width: 80px;
